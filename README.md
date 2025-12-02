@@ -1,5 +1,5 @@
 # Lecture-Summarization
-This python script takes a .mp3 file and then transcribes it using hugging face. 
+This python script takes a .mp3 file and then transcribes it using openai/whisper-tiny model on hugging face. 
 
 Project install and demo video: 
 https://www.youtube.com/watch?v=LzCqZ85aO4I
