@@ -1,5 +1,5 @@
 # Lecture-Summarization
-This project will use AI models from Hugging Face model and an arduino. Project is a work in progress. 
+This python script takes a .mp3 file and then transcribes it using hugging face. 
 
 Project install and demo video: 
 https://www.youtube.com/watch?v=LzCqZ85aO4I
@@ -11,7 +11,7 @@ pre-requisites!!!
 -pip install hf_xet
 -ffmpeg added to path environement variables
 
-Future Goals: 
+Possible Future Work: 
 - Buzzer for filler words (um, uh, etc)
 - Language Translation
 - Tone analysis
