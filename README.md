@@ -1,11 +1,11 @@
 # Lecture-Summarization
-This python script takes a .mp3 file and then transcribes it using openai/whisper-tiny model on hugging face. 
+This python script takes a .mp3 file and then transcribes it using openai/whisper-tiny model on hugging face.
 
 Project install and demo video: 
 https://www.youtube.com/watch?v=LzCqZ85aO4I
 
 Pre-requisites! You need these things or it will not work.
--python 3.13 (added to PATH environment variables)
+python 3.13 (added to PATH environment variables),
 -pip install transformers
 -pip install torch
 -pip install hf_xet
