@@ -12,7 +12,7 @@ Pre-requisites! You need these things or it will not work:
 - ffmpeg (added to PATH environement variables)
 
 
-Possible Future Work: 
+My future ideas: 
 - Buzzer for filler words (um, uh, etc)
 - Language Translation
 - Tone analysis
