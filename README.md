@@ -4,13 +4,14 @@ This python script takes a .mp3 file and then transcribes it using openai/whispe
 Project install and demo video: 
 https://www.youtube.com/watch?v=LzCqZ85aO4I
 
-Pre-requisites! You need these things or it will not work:
+Prerequisites! You need these things or it will not work*:
 - python 3.13 (added to PATH environment variables)
 - pip install transformers
 - pip install torch
 - pip install hf_xet
 - ffmpeg (added to PATH environement variables)
 
+*It is not recommended to use google colab for this project due to a difference in file organization and limited processing power. My video demonstration (above) used VSCode. 
 
 My future ideas: 
 - Buzzer for filler words (um, uh, etc)
